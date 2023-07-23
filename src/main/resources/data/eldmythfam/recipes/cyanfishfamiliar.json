@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "AER",
+    " C "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cod"
+    },
+    "A": {
+      "item": "minecraft:tropical_fish"
+    },
+    "R": {
+      "item": "minecraft:pufferfish"
+    },
+    "E": {
+      "item": "eldmythfam:eye_of_familiarity"
+    },
+    "C": {
+      "item": "minecraft:salmon"
+    }
+  },
+  "result": {
+    "item": "eldmythfam:cyanfishfamiliaritem",
+    "count": 1
+  }
+}

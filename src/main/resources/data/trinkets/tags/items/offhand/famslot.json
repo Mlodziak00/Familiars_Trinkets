@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "eldmythfam:suspiciouseyefamiliaritem",
+    "eldmythfam:conduiteyefamiliaritem",
+    "eldmythfam:mimicfamiliaritem",
+    "eldmythfam:darkmimicfamiliaritem",
+    "eldmythfam:icemimicfamiliaritem",
+    "eldmythfam:bluejellyfishfamiliaritem",
+    "eldmythfam:greenjellyfishfamiliaritem",
+    "eldmythfam:yellowjellyfishfamiliaritem",
+    "eldmythfam:redjellyfishfamiliaritem",
+    "eldmythfam:orangejellyfishfamiliaritem",
+    "eldmythfam:pinkjellyfishfamiliaritem",
+    "eldmythfam:purplejellyfishfamiliaritem",
+    "eldmythfam:magentajellyfishfamiliaritem",
+    "eldmythfam:lightgrayjellyfishfamiliaritem",
+    "eldmythfam:lightbluejellyfishfamiliaritem",
+    "eldmythfam:cyanjellyfishfamiliaritem",
+    "eldmythfam:grayjellyfishfamiliaritem",
+    "eldmythfam:whitejellyfishfamiliaritem",
+    "eldmythfam:blackjellyfishfamiliaritem",
+    "eldmythfam:brownjellyfishfamiliaritem",
+    "eldmythfam:litlanternfamiliaritem",
+    "eldmythfam:fiendlanternfamiliaritem",
+    "eldmythfam:redfishfamiliaritem",
+    "eldmythfam:cyanfishfamiliaritem",
+    "eldmythfam:purplefishfamiliaritem",
+    "eldmythfam:clockfamiliaritem",
+    "eldmythfam:horologiumfamiliaritem"
+  ]
+}

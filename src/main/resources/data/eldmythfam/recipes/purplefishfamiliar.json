@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "RER",
+    " C "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:tropical_fish"
+    },
+    "R": {
+      "item": "minecraft:purple_dye"
+    },
+    "E": {
+      "item": "eldmythfam:eye_of_familiarity"
+    },
+    "C": {
+      "item": "minecraft:end_pearl"
+    }
+  },
+  "result": {
+    "item": "eldmythfam:purplefishfamiliaritem",
+    "count": 1
+  }
+}

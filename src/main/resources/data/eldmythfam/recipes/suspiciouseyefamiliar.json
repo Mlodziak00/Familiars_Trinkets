@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "PEP",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:purple_wool"
+    },
+    "P": {
+      "item": "minecraft:purple_stained_glass"
+    },
+    "E": {
+      "item": "eldmythfam:eye_of_familiarity"
+    }
+  },
+  "result": {
+    "item": "eldmythfam:suspiciouseyefamiliaritem",
+    "count": 1
+  }
+}

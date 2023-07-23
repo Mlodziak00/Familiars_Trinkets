@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "PEP",
+    " C "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blue_wool"
+    },
+    "P": {
+      "item": "minecraft:blue_stained_glass"
+    },
+    "E": {
+      "item": "eldmythfam:eye_of_familiarity"
+    },
+    "C": {
+      "item": "minecraft:nautilus_shell"
+    }
+  },
+  "result": {
+    "item": "eldmythfam:conduiteyefamiliaritem",
+    "count": 1
+  }
+}

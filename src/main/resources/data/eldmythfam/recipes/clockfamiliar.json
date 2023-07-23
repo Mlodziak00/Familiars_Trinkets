@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "eldmythfam:eye_of_familiarity"
+    },
+    {
+      "item": "minecraft:clock"
+    }
+  ],
+  "result": {
+    "item": "eldmythfam:clockfamiliaritem",
+    "count": 1
+  }
+}

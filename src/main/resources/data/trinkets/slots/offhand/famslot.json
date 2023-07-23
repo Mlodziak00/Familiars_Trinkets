@@ -1,0 +1,5 @@
+{
+  "icon": "eldmythfam:gui/slots/famslot",
+  "order": -256,
+  "validator_predicates": ["trinkets:tag"]
+}

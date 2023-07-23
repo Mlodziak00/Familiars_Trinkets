@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "SES",
+    " K "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blue_dye"
+    },
+    "S": {
+      "item": "minecraft:slime_ball"
+    },
+    "E": {
+      "item": "eldmythfam:eye_of_familiarity"
+    },
+    "K": {
+      "item": "minecraft:kelp"
+    }
+  },
+  "result": {
+    "item": "eldmythfam:bluejellyfishfamiliaritem",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "RER",
+    " C "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:salmon"
+    },
+    "R": {
+      "item": "minecraft:red_dye"
+    },
+    "E": {
+      "item": "eldmythfam:eye_of_familiarity"
+    },
+    "C": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "eldmythfam:redfishfamiliaritem",
+    "count": 1
+  }
+}

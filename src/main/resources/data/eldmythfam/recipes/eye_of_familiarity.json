@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#PE",
+    "YXY",
+    "TPB"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "P": {
+      "item": "minecraft:purple_dye"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "Y": {
+      "item": "minecraft:yellow_dye"
+    },
+    "X": {
+      "item": "minecraft:ender_eye"
+    },
+    "T": {
+      "item": "minecraft:chest"
+    },
+    "B": {
+      "item": "minecraft:bone_block"
+    }
+  },
+  "result": {
+    "item": "eldmythfam:eye_of_familiarity",
+    "count": 1
+  }
+}
